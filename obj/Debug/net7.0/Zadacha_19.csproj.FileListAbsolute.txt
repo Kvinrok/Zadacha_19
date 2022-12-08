@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\bin\Debug\net7.0\Zadacha_19.exe
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\bin\Debug\net7.0\Zadacha_19.deps.json
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\bin\Debug\net7.0\Zadacha_19.runtimeconfig.json
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\bin\Debug\net7.0\Zadacha_19.dll
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\bin\Debug\net7.0\Zadacha_19.pdb
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.AssemblyInfo.cs
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.dll
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\refint\Zadacha_19.dll
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.pdb
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\Zadacha_19.genruntimeconfig.cache
+C:\Users\Александр\Documents\C#_DZ\Zadacha_19\obj\Debug\net7.0\ref\Zadacha_19.dll
